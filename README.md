@@ -33,7 +33,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### The URL
 
-![image] (https://github.com/sdkdeepa/Udacity-udagram-project2/blob/main/deployment_screenshots/Output%20URL.png)
+![image](https://github.com/sdkdeepa/Udacity-udagram-project2/blob/main/deployment_screenshots/Output%20URL.png)
 
 http://udagram-project-deepa-dev-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
