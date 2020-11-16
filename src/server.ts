@@ -31,7 +31,7 @@ import { reduce } from 'bluebird';
 
   app.get("/filteredImage", async (req, res) => {
 
-    const imageUrl = req.query.imageUrl;
+    const imageUrl = req.query.image_url;
     if (imageUrl) {
       filterImageFromURL(imageUrl).then((response) => {
         res.sendFile(response);
